@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: NPS-F500Revenue
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Bryce
+    family-names: Harris
+    email: bryceharris13@gmail.com
+identifiers:
+  - type: url
+    value: 'https://github.com/BryceLegacy/NPS-F500Revenue'
+license: MIT

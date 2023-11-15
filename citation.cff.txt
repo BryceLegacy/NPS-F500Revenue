@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Harris"
-  given-names: "Bryce"
-title: "NPS-F500Revenue"
-date-released: 2023-11-15
-url: "https://github.com/BryceLegacy/NPS-F500Revenue"
